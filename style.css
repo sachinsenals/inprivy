@@ -1,57 +1,7 @@
-.container {
+.wrapper{
 
-   background-image: linear-gradient(aliceblue, #C0F289);
 
-}
-
-.messageBox {
-
-   top: 10%;
-
-   background-image: url('https://pixy.org/src/244/thumbs350/2442124.jpg');
-
-   background-repeat: no-repeat;
-
-   background-position: 50% 29%;
-
-   background-size: 20%;
+background-color: black;
 
 }
 
-.passwordForm__textBox {
-
-   margin-bottom: 0;
-
-   width: 65%;
-
-}
-
-.textField__input {
-
-   background-color: #C0F289;
-
-}
-
-.shortcmStart__text {
-
-   font-size: 0.75em;
-
-   text-decoration: underline;
-
-}
-
-.button {
-
-   background: #159447;
-
-   color: #000;
-
-}
-
-.button:hover {
-
-   background: #84C240;
-
-   color: #000;
-
-}
